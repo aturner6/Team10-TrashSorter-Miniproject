@@ -11,10 +11,10 @@ composition, roles, and the tasks at hand.
 
 | Role | Named Members |
 |------|---------|
-| Mechanical Engineering | |
-| Electrical Engineering | |
-| Computer Engineering | |
-| Biomedical Engineering | |
+| Mechanical Engineering | Adina, John |
+| Electrical Engineering | Adina, Rebecca, Richard, Carlos |
+| Computer Engineering | N/A |
+| Biomedical Engineering | N/A |
 
 ---
 
