@@ -1,7 +1,7 @@
 # 03-Miniproject-2026-27
 
-This is a template repo for a multi-disciplinary mini-project for a
-small team of EEs, CEs, MEs, and BMEs. The mini-project is described in the
+This is a repo for a multi-disciplinary mini-project for a
+small team of EEs and ME. The mini-project is described in the
 course assignment. You should tailor this repo based on your team
 composition, roles, and the tasks at hand.
 
