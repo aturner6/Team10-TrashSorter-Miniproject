@@ -13,8 +13,6 @@ composition, roles, and the tasks at hand.
 |------|---------|
 | Mechanical Engineering | John |
 | Electrical Engineering | Adina, Rebecca, Richard, Carlos |
-| Computer Engineering | N/A |
-| Biomedical Engineering | N/A |
 
 ---
 
