@@ -5,6 +5,10 @@ small team of EEs and ME. The mini-project is described in the
 course assignment. You should tailor this repo based on your team
 composition, roles, and the tasks at hand.
 
+# Project Summary 
+
+This device is a self-contained meeting timer that runs MicroPython on a Seeed XIAO ESP32-S3. The countdown begins after the user uses two tactile buttons to choose a predetermined time (15, 20, 25, or 30 minutes). Three status LEDs (powered with PWM for a pulsating effect) show the device's current condition, and a stepper motor powers an actual clock hand that scrolls down as time passes.
+
 ---
 
 ## Team
