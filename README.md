@@ -5,6 +5,21 @@ small team of EEs and ME. The mini-project is described in the
 course assignment. You should tailor this repo based on your team
 composition, roles, and the tasks at hand.
 
+Complete the project documentation in your Miniproject repo including:
+Project summary (as .md) including 
+Description of device 
+Photo(s) of device
+Description of how to use your device
+Record a link to your device in operation (< 10s) and link to file stored in your team google team folder under /video
+References to any source materials adopted in the project
+Project support documents
+Flowcharts and or/state charts of system 
+Schematic of device (no fritzing please) 
+Mechanical design and CAD drawings/STLs of enclosure (if MEs on team)
+Code folder including embedded code comments
+Simple readme.md in each subfolder
+
+
 # Project Summary 
 
 This device is a self-contained meeting timer that runs MicroPython on a Seeed XIAO ESP32-S3. The countdown begins after the user uses two tactile buttons to choose a predetermined time (15, 20, 25, or 30 minutes). Three status LEDs (powered with PWM for a pulsating effect) show the device's current condition, and a stepper motor powers an actual clock hand that scrolls down as time passes.
@@ -19,10 +34,18 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 # Photo of device 
 
 # How to operate
-
+  
 # Demo video
-
+  link
 # References 
+
+# Flowchart of the system
+
+# Schematic of the device
+
+# Mechanical design and CAS drawings/STLs of enclosure
+
+# Code folder
 
 ---
 
