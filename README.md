@@ -14,7 +14,15 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 * Microcontroller: Seeed XIAO ESP32-S3
 * Motor: 28BYJ-48 5-wire, 4-phase unipolar stepper, driven through an L293D H-bridge (wave-pulse stepping, one coil energized at a time), moving a popsicle-stick clock hand to show time remaining
 * Inputs: two tactile pushbuttons (GPIO5, GPIO6)
-* Outputs: three PWM-driven LEDs — red (GPIO7), blue (GPIO8), green (GPIO9) — each pulsed at a ~1s duty-cycle rate
+* Outputs: three PWM-driven LEDs: red (GPIO7), blue (GPIO8), green (GPIO9), each pulsed at a ~1s duty-cycle rate
+
+# Photo of device 
+
+# How to operate
+
+# Demo video
+
+# References 
 
 ---
 
