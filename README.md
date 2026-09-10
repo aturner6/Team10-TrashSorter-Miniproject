@@ -9,6 +9,13 @@ composition, roles, and the tasks at hand.
 
 This device is a self-contained meeting timer that runs MicroPython on a Seeed XIAO ESP32-S3. The countdown begins after the user uses two tactile buttons to choose a predetermined time (15, 20, 25, or 30 minutes). Three status LEDs (powered with PWM for a pulsating effect) show the device's current condition, and a stepper motor powers an actual clock hand that scrolls down as time passes.
 
+# Description of the device
+
+* Microcontroller: Seeed XIAO ESP32-S3
+* Motor: 28BYJ-48 5-wire, 4-phase unipolar stepper, driven through an L293D H-bridge (wave-pulse stepping, one coil energized at a time), moving a popsicle-stick clock hand to show time remaining
+* Inputs: two tactile pushbuttons (GPIO5, GPIO6)
+* Outputs: three PWM-driven LEDs — red (GPIO7), blue (GPIO8), green (GPIO9) — each pulsed at a ~1s duty-cycle rate
+
 ---
 
 ## Team
