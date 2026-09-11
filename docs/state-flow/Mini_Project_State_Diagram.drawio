@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" agent="Codex" compressed="false">
+  <diagram id="simple" name="Simple state diagram">
+    <mxGraphModel dx="1498" dy="1734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1030" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="simple-1" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#2563EB;fontStyle=1;fillColor=none;strokeColor=none;" value="EC463  /  MINI-PROJECT" vertex="1">
+          <mxGeometry height="24" width="1260" x="70" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-2" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=34;fontColor=#172B4D;fontStyle=1;fillColor=none;strokeColor=none;" value="Meeting timer — State diagram" vertex="1">
+          <mxGeometry height="50" width="1260" x="70" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-3" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=20;fontColor=#52657D;fontStyle=0;fillColor=none;strokeColor=none;" value="Two buttons  •  Presets: 15 → 20 → 25 → 30 → 15 minutes" vertex="1">
+          <mxGeometry height="28" width="1260" x="70" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-4" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=28;whiteSpace=wrap;html=0;fillColor=#EEF5FF;strokeColor=#2563EB;strokeWidth=1.5;container=1;collapsible=0;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="180" width="320" x="70" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-5" parent="simple-4" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#2563EB;fontStyle=1;fillColor=none;strokeColor=none;" value="READY" vertex="1">
+          <mxGeometry height="35" width="276" x="22" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-6" parent="simple-4" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Selected duration loaded" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-7" parent="simple-4" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Popstick at starting position" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-8" parent="simple-4" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Blue LED steady" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-9" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=28;whiteSpace=wrap;html=0;fillColor=#EDFAF3;strokeColor=#16805D;strokeWidth=1.5;container=1;collapsible=0;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="180" width="320" x="540" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-10" parent="simple-9" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#16805D;fontStyle=1;fillColor=none;strokeColor=none;" value="RUNNING" vertex="1">
+          <mxGeometry height="35" width="276" x="22" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-11" parent="simple-9" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Time counts down" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-12" parent="simple-9" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Popstick moves toward zero" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-13" parent="simple-9" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Green LED pulses (PWM)" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-14" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=28;whiteSpace=wrap;html=0;fillColor=#EEF5FF;strokeColor=#2563EB;strokeWidth=1.5;container=1;collapsible=0;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="180" width="320" x="1010" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-15" parent="simple-14" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#2563EB;fontStyle=1;fillColor=none;strokeColor=none;" value="STOPPED" vertex="1">
+          <mxGeometry height="35" width="276" x="22" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-16" parent="simple-14" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Remaining time preserved" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-17" parent="simple-14" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Popstick stops in place" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-18" parent="simple-14" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Blue LED pulses (PWM)" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-19" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=28;whiteSpace=wrap;html=0;fillColor=#FFF0F1;strokeColor=#CC4151;strokeWidth=1.5;container=1;collapsible=0;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="180" width="320" x="540" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-20" parent="simple-19" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=25;fontColor=#CC4151;fontStyle=1;fillColor=none;strokeColor=none;" value="FINISHED" vertex="1">
+          <mxGeometry height="35" width="276" x="22" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-21" parent="simple-19" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Time remaining = 0" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-22" parent="simple-19" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Popstick stopped at zero" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-23" parent="simple-19" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Red LED steady" vertex="1">
+          <mxGeometry height="28" width="278" x="22" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-24" parent="1" style="ellipse;html=0;fillColor=#172B4D;strokeColor=#172B4D;" value="" vertex="1">
+          <mxGeometry height="18" width="18" x="221" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-25" edge="1" parent="1" source="simple-24" style="edgeStyle=none;html=0;rounded=0;orthogonal=1;jettySize=0;endArrow=block;endFill=1;endSize=9;strokeWidth=2;strokeColor=#667990;exitX=0.5;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="simple-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-26" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=17;fontColor=#52657D;fontStyle=0;fillColor=none;strokeColor=none;" value="Power on&#xa;Load 15 minutes" vertex="1">
+          <mxGeometry height="45" width="265" x="250" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-27" edge="1" parent="1" source="simple-4" style="edgeStyle=none;html=0;rounded=0;orthogonal=1;jettySize=0;endArrow=block;endFill=1;endSize=9;strokeWidth=2;strokeColor=#667990;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="simple-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-28" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="B1: Start" vertex="1">
+          <mxGeometry height="34" width="130" x="400" y="328" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-29" edge="1" parent="1" source="simple-9" style="edgeStyle=none;html=0;rounded=0;orthogonal=1;jettySize=0;endArrow=block;endFill=1;endSize=9;strokeWidth=2;strokeColor=#667990;exitX=1.0;exitY=0.28888888888888886;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0;entryY=0.28888888888888886;entryDx=0;entryDy=0;entryPerimeter=0;" target="simple-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-30" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="B1: Stop" vertex="1">
+          <mxGeometry height="34" width="130" x="870" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-31" edge="1" parent="1" source="simple-14" style="edgeStyle=none;html=0;rounded=0;orthogonal=1;jettySize=0;endArrow=block;endFill=1;endSize=9;strokeWidth=2;strokeColor=#667990;exitX=0.0;exitY=0.7611111111111111;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.0;entryY=0.7611111111111111;entryDx=0;entryDy=0;entryPerimeter=0;" target="simple-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-32" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="B1: Resume" vertex="1">
+          <mxGeometry height="30" width="134" x="868" y="433" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-33" edge="1" parent="1" source="simple-9" style="edgeStyle=none;html=0;rounded=0;orthogonal=1;jettySize=0;endArrow=block;endFill=1;endSize=9;strokeWidth=2;strokeColor=#667990;exitX=0.5;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="simple-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-34" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=19;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Time reaches zero" vertex="1">
+          <mxGeometry height="46" width="290" x="721" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-35" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=24;whiteSpace=wrap;html=0;fillColor=#F6F3FC;strokeColor=#D8C9EB;strokeWidth=1.5;container=1;collapsible=0;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="99" width="1260" x="70" y="834" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-36" parent="simple-35" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=20;fontColor=#7854B5;fontStyle=1;fillColor=none;strokeColor=none;" value="B2: MODE — applies from any state" vertex="1">
+          <mxGeometry height="31" width="1216" x="22" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-37" parent="simple-35" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=22;fontColor=#172B4D;fontStyle=0;fillColor=none;strokeColor=none;" value="Stop → next preset → reload time → reposition popstick → Ready" vertex="1">
+          <mxGeometry height="32" width="1216" x="22" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-38" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#52657D;fontStyle=0;fillColor=none;strokeColor=none;" value="Assumptions: B1 resumes after stopping; B1 is ignored while repositioning and at Finished." vertex="1">
+          <mxGeometry height="26" width="1260" x="70" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="simple-39" parent="1" style="text;html=0;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=15;fontColor=#52657D;fontStyle=0;fillColor=none;strokeColor=none;" value="Startup: align the hand to zero while unpowered. Only Mode reloads the countdown during normal operation." vertex="1">
+          <mxGeometry height="26" width="1260" x="70" y="979" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
