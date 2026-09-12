@@ -1,4 +1,4 @@
-# Project Documentation
+# Code README
 
 ## Contents
 The MicroPython source for the meeting timer was uploaded to the Seeed XIAO ESP32-S3 via Thonny.
