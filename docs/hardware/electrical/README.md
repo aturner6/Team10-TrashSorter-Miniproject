@@ -1,7 +1,7 @@
 # Project Documentation
 
 Electrical design files for the meeting timer.
-Schematic — of the XIAO ESP32-S3, L293D H-bridge driver, stepper motor, LEDs, and buttons (drawn by hand or with a schematic tool — no Fritzing)
+Schematic of the XIAO ESP32-S3, L293D H-bridge driver, stepper motor, LEDs, and buttons
 
 
 Bill of Materials (see xlsx file for links)
