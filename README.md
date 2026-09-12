@@ -73,10 +73,17 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 
 ## Hardware
 
-| Component | Notes |
-|-----------|-------|
-| Thing 1 | Thing 1 notes  |
-| Thing 2 | Thing 2 notes  |
+| Component | Description|
+|-------------|--------- | 
+| Seeed XIAO ESP32-S3, pre-soldered |Microcontroller for the clock|
+| Multi-color LED |Visual indicator of status|
+| Breadboard |Used for connections of all other components. |
+| Tactile breadboard switch |One button cycles time duration, another starts and stops|	
+ | 220-ohm resistor |adds resistance to circuit|
+ | Battery holder, 3x AAA cells |powers the timer|
+ | Stepper motor |moves the handles in steps for timer|
+ | Motor driver (L293D) |6 step control|
+ | Jumper wire kit |used to connect all the components on breadboard|
 
 ---
 
