@@ -90,21 +90,22 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 ## Team Responsibilities 
 Any discipline can do any role here -- you make the assigments. 
 
-### Mechanical oriented
+### Mechanical oriented - John Colcha
 - Design the enclosure 
 - Fabricate the enclosure (3-D print or laser-cut)
 - Document the assembly process 
 
-### Electrical oriented
-- Produce the breadboard schematic
-- Summarize the bill of materials
-- Wire the circuit on the breadboard, verfify that the componets are assembled correctly, validate the voltage levels
+### Electrical oriented - Carlos Rivas, Adina Turner, Richard Huang
+- Produce the breadboard schematic - Adina Turner
+- Summarize the bill of materials - Carlos Rivas
+- Wire the circuit on the breadboard, verify that the components are assembled correctly, validate the voltage levels - Adina Turner
+- Develop flowchart for the time device - Richard Huang
 
-### Computer oriented
-- Design the software based on the required functionality
-- Develop MicroPython code and firmware 
-- Flash and test the firmware on the target micro
-- Document the APIs for the system
+### Computer oriented - Rebecca Brautigam, Carlos Rivas
+- Design the software based on the required functionality - Rebecca Brautigam
+- Develop MicroPython code and firmware - Rebecca Brautigam
+- Flash and test the firmware on the target micro - Rebecca Brautigam
+- Document the project on the repo and record 10 second video - Carlos Rivas
 
 ## Deliverables
 
@@ -121,7 +122,7 @@ including documentation in the repo with version control (software,
 firmware, schematics, BOMs, CAD models, etc.) All can be managed in
 the repo with version control.
 
-1. Establish that each teammember has properly set up Git/GitHub Desktop
+1. Establish that each team member has properly set up Git/GitHub Desktop
 2. Decompose the project into units to assign to each named team member 
 3. From the team repo, create a branch from `main` named `<role>/<feature>` (e.g., `me/case`) to capture work artifacts 
 4. Fetch the branch to the local laptop
