@@ -5,3 +5,5 @@
 
 ## Deliverables
 
+- Completed download Thonny Ide and Configure
+
