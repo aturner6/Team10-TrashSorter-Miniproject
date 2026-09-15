@@ -43,9 +43,9 @@ Reference we used for motor [RandomNerdTutorials](https://randomnerdtutorials.co
 Reference we used for PWM LED [LinuxHint](https://linuxhint.com/pwm-esp32-micropython-thonny-ide/)
 
 # Flowchart of the system
-The flow chart of the system is [Mini_Project_State_Diagram.drawio.pdf](docs/state-flow/Mini_Project_State_Diagram.drawio.pdf) — viewable PDF.
+The flow chart of the system is [State Diagram](docs/state-flow/Mini_Project_State_Diagram.drawio.pdf) — viewable PDF.
 # Schematic of the device
-The schematic chart of the system is [Replace Text](docs/hardware/electrical/) — viewable PDF.
+The schematic chart of the system is [Schematic Chart](docs/hardware/electrical/MINIPROJECT DIAGRAM.pdf) — viewable PDF.
 # Mechanical design and CAS drawings/STLs of enclosure
 
 # Code folder
