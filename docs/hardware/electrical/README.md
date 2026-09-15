@@ -21,10 +21,3 @@ Bill of Materials (see xlsx file for links)
 | Total |  |||$66.24||
 
 
----
-
-## Quick Links
-
-- [Firmware]()
-- [Electrical]()
-- [Enclosure]()
