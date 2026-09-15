@@ -47,10 +47,11 @@ The flow chart of the system is [State Diagram](docs/state-flow/Mini_Project_Sta
 # Schematic of the device
 The schematic chart of the system is [Schematic Chart](docs/hardware/electrical/MINIPROJECTDIAGRAM.pdf) — viewable PDF.
 # Mechanical design and CAS drawings/STLs of enclosure
+All the mechanical designs and STL files are in [Mechanical](docs/hardware/mechanical)
 
 # Code folder
 
-The code folder is in [firmware](docs/firmware)
+The code folder is in [Firmware](docs/firmware)
 
 ---
 
