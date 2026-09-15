@@ -49,6 +49,7 @@ The flow chart of the system is [Mini_Project_State_Diagram.drawio.pdf](docs/sta
 
 # Code folder
 
+The code folder is in [firstDraft.py](docs/firmware/firstDraft.py)
 ---
 
 ## Team
