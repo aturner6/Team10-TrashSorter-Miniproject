@@ -45,7 +45,7 @@ Reference we used for PWM LED [LinuxHint](https://linuxhint.com/pwm-esp32-microp
 # Flowchart of the system
 The flow chart of the system is [Mini_Project_State_Diagram.drawio.pdf](docs/state-flow/Mini_Project_State_Diagram.drawio.pdf) — viewable PDF.
 # Schematic of the device
-
+The schematic chart of the system is [Replace Text](docs/hardware/electrical/) — viewable PDF.
 # Mechanical design and CAS drawings/STLs of enclosure
 
 # Code folder
