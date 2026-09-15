@@ -41,6 +41,7 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 
 # Flowchart of the system
 The flow chart of the system is under state-flow/Mini_Project_State_Diagram.drawio.pdf
+[Mini_Project_State_Diagram.drawio.pdf](Mini_Project_State_Diagram.drawio.pdf) — viewable PDF.
 # Schematic of the device
 
 # Mechanical design and CAS drawings/STLs of enclosure
