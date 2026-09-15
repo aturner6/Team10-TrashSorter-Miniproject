@@ -39,6 +39,7 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
   link
 # References 
 Reference we used for motor [RandomNerdTutorials](https://randomnerdtutorials.com/esp32-stepper-motor-28byj-48-uln2003/)
+Reference we used for PWM LED [LinuxHint](https://linuxhint.com/pwm-esp32-micropython-thonny-ide/)
 
 # Flowchart of the system
 The flow chart of the system is [Mini_Project_State_Diagram.drawio.pdf](docs/state-flow/Mini_Project_State_Diagram.drawio.pdf) — viewable PDF.
