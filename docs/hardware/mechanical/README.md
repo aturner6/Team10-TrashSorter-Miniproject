@@ -1,7 +1,32 @@
 ## CAD Models and Components README
-The following screenshots break down the 3D-printed mechanical assembly for the timer. These SolidWorks designs accommodate the device's hardware. Providing a secure mount for the stepper motor and clearance for the USB-C power cable
+<br> <br>
+<div align="center">
+
+### Ideation and Initial Sketches
+Before moving into SolidWorks, the initial concepts and dimensions were mapped out by hand. These sketches highlight the early brainstorming process for the enclosure's overall footprint, internal clearances for the breadboard, and the structural ideas for the stepper motor holder and tactile button attachments. 
+
+<br>
+
+<img width="1047" height="1296" alt="Screenshot 2026-09-15 212306" src="https://github.com/user-attachments/assets/ec14e54d-2e8b-4262-a9f8-265fcf194a35" />
+
+
+<br>
+<br>
+
+<img width="1048" height="1147" alt="Screenshot 2026-09-15 212320" src="https://github.com/user-attachments/assets/02e9f8c2-9a7c-4d7c-88f4-0a6cdc971d96" />
+
+
+</div>
 
 <div align= "center">
+  
+  <br> <br>
+  
+## From Concept to CAD: SolidWorks Implementation
+  <br> <br>
+Using the dimensions and concepts mapped out in the initial sketches, the final components were modeled in SolidWorks. The isometric views below show the exact geometry used to 3D print the enclosure, incorporating the required motor mounts and external USB-C pathways.
+
+<br>
 
 <img width="1569" height="1101" alt="Screenshot 2026-09-15 152336" src="https://github.com/user-attachments/assets/86fa68aa-47ae-4992-84da-4fb064e89734" />
 <br>
