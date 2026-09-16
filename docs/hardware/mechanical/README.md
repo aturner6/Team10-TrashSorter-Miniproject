@@ -99,8 +99,3 @@ For details of the project, see the root README.md.
 
 ---
 
-## Quick Links
-
-- [Firmware]()
-- [Electrical]()
-- [Enclosure]()
