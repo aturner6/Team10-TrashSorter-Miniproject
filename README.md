@@ -37,7 +37,7 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 Connect and turn on the power. The blue LED will then illuminate. Select the Modes 15, 20, 25, and 30 (min) which are cycled by the left button (Button 1). The timer can be started or stopped by pressing the right button (Button 2). Timer moves clockwise (CW) until it hits the set time, then resets back to start — until Button 2 is pressed again to change mode.\
 LED states: Red indicates the time is up, Green indicates the timer is active, and Blue indicates cycling (mode choose).
 # Demo video
-  link
+  put video link here
 # References 
 Reference we used for PWM LED [LinuxHint](https://linuxhint.com/pwm-esp32-micropython-thonny-ide/)
 
