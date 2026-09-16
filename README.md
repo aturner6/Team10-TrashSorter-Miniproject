@@ -32,6 +32,7 @@ This device is a self-contained meeting timer that runs MicroPython on a Seeed X
 * Outputs: three PWM-driven LEDs: red (GPIO7), blue (GPIO8), green (GPIO9), each pulsed at a ~1s duty-cycle rate
 
 # Photo of device 
+<img width="3024" height="4032" alt="IMG_3915-preview" src="https://github.com/user-attachments/assets/9f2f26bf-050d-4df3-80a9-0d18f21ed775" />
 
 # How to operate
 Connect and turn on the power. The blue LED will then illuminate. Select the Modes 15, 20, 25, and 30 (min) which are cycled by the left button (Button 1). The timer can be started or stopped by pressing the right button (Button 2). Timer moves clockwise (CW) until it hits the set time, then resets back to start — until Button 2 is pressed again to change mode.\
