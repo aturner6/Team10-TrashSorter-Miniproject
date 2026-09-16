@@ -12,8 +12,3 @@ Each function and the pin mapping are explained by inline comments in the code. 
 
 ---
 
-## Quick Links
-
-- [Firmware]()
-- [Electrical]()
-- [Enclosure]()
